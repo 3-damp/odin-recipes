@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes This is the odin recipes project from the html section. The project requirement is for a basic page that links to recipe pages. I plan on styling the pages more as I learn.

@@ -1,0 +1,1 @@
+This is the odin recipes project from the html section. The project requirement is for a basic page that links to recipes. I am saving more often than normal to also become familiar using git.
